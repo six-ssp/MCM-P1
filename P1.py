@@ -1,4 +1,7 @@
 #P1 连续时间 SOC 最简动力学模型
+#图左上 模拟的是系统状态 SOC(t) 的演化
+#图右上 模拟的是功耗函数 P(t) 的时间变化
+#图下 具体三种不同程度的使用情况屏幕亮起与时间关系
 import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
